@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;
+}
+
+form{
+    text-align: center;
+    margin-top: 300px;
+    margin-bottom: 300px;
+}
+.border{
+    border-style: double;
+    border-color: black;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+
+nav{
+    text-align: right;
+    background-color: white;
+    
+}
+.Submit{background-color: blue;}
